@@ -35,10 +35,6 @@ o	mp.solutions.face_mesh.FaceMesh(): Loads the Face Mesh model, which detects fa
 o	mp.solutions.drawing_utils.draw_landmarks(): Draws landmarks on the detected face in the image for visualization.
 o	face_landmarks.landmark: Provides access to the detected facial landmarks (x, y coordinates).
 
-#Team Members
-1. Rudra Dholariya
-2. Munjal Vyas
-3. Dhavalsinh Vaghela
 •	MediaPipe is crucial for detecting facial landmarks and processing the face mesh in the image. This allows the glasses to be accurately placed on the face based on the detected eye positions.
 6. PIL (Python Imaging Library) (from PIL import Image)
 •	Purpose: PIL (now known as Pillow) is a library used for opening, manipulating, and saving images in various formats.
