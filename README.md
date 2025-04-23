@@ -63,4 +63,4 @@ This application can be enhanced by adding more customization, such as allowing 
 # Team Members
 1. Rudra Dholariya
 2. Munjal Vyas
-3. Dhavalsinh Vaghela
+3. Kush Raval
